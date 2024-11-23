@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 557e81e25b812244d94828c1d85820d1
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - _xrOrigin: {instanceID: 0}
+  - _planeManager: {instanceID: 0}
+  - _raycastManager: {instanceID: 0}
+  - _placementObject: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
